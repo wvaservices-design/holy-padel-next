@@ -1,4 +1,11 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/events/page": "app/events/page.js",
+  "/socials/page": "app/socials/page.js",
   "/trainingen/page": "app/trainingen/page.js",
-  "/(tabs)/home/page": "app/(tabs)/home/page.js"
+  "/page": "app/page.js",
+  "/fotos/page": "app/fotos/page.js",
+  "/winkel/page": "app/winkel/page.js",
+  "/(tabs)/home/page": "app/(tabs)/home/page.js",
+  "/(tabs)/reserveringen/page": "app/(tabs)/reserveringen/page.js"
 }

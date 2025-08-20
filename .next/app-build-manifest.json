@@ -1,25 +1,87 @@
 {
   "pages": {
-    "/trainingen/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/trainingen/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/_not-found/page-dcb83ba3e4d0aafd.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/css/14c5d9fe163c0056.css",
+      "static/chunks/972-5ecfbe0c89e84126.js",
+      "static/chunks/992-562c51503cc1fcc0.js",
+      "static/chunks/app/layout-d469ee1ac0dba671.js"
+    ],
+    "/events/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/events/page-6c53145674bfc769.js"
+    ],
+    "/socials/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/socials/page-f6192c4eacbba1ff.js"
+    ],
+    "/trainingen/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/trainingen/page-f9b4fd0120ac6a4b.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/page-b2158f63ebc07929.js"
+    ],
+    "/fotos/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/fotos/page-019fa6e68c717e1e.js"
+    ],
+    "/winkel/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/app/winkel/page-b84b43cd8f8c55d9.js"
     ],
     "/(tabs)/home/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(tabs)/home/page.js"
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/972-5ecfbe0c89e84126.js",
+      "static/chunks/app/(tabs)/home/page-c35a747d64098c7a.js"
     ],
     "/(tabs)/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(tabs)/layout.js"
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/972-5ecfbe0c89e84126.js",
+      "static/chunks/app/(tabs)/layout-b6ffd9d0618f1918.js"
+    ],
+    "/(tabs)/reserveringen/page": [
+      "static/chunks/webpack-48cce0e4227dc160.js",
+      "static/chunks/fd9d1056-749e5812300142af.js",
+      "static/chunks/117-371f1d998924e466.js",
+      "static/chunks/main-app-533da63f8c6e7434.js",
+      "static/chunks/972-5ecfbe0c89e84126.js",
+      "static/chunks/app/(tabs)/reserveringen/page-d40de6fde8668268.js"
     ]
   }
 }
