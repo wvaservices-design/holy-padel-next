@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --gold:#d1a954;
+  --gold-2:#f5d27a;
+  --bg:#0a0a0a;    /* body background */
+  --panel:#111318; /* card background */
+}
+.bg-body { background: var(--bg); color:#fff; }
+.text-gold { color: var(--gold); }
+.container { @apply max-w-5xl mx-auto px-4; }
+
+.panel {
+  background: radial-gradient(1200px 500px at 50% -200px, rgba(209,169,84,0.10), transparent 50%), var(--panel);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 1.25rem; box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+}
+
+.btn { @apply px-4 py-2 rounded-2xl transition focus:ring-2 focus:ring-white/10 disabled:opacity-50; }
+.btn-primary { color:#000; background-image: linear-gradient(135deg,var(--gold-2),var(--gold)); }
+.btn-primary:hover { filter: brightness(1.1); }
+.btn-outline { @apply border border-white/20 bg-white/5 hover:bg-white/10; }
+
+.input { @apply px-3 py-2 rounded-xl border border-white/10 bg-white/10 text-white; }
+.time-pill { background: rgba(255,255,255,0.06); padding:10px 14px; border-radius:12px; border:1px solid rgba(255,255,255,0.10);}
+.time-pill.selected { background: rgba(209,169,84,0.22); border-color: rgba(209,169,84,0.45); }
+
+.tabbar { @apply sticky top-0 z-40 backdrop-blur bg-black/70 border-b border-white/10; }
