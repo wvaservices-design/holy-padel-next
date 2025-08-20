@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: holy-padel-clubhuis
+    env: node
+    rootDir: holy-padel-next-starter
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 18.20.4
+    autoDeploy: true
