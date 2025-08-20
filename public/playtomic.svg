@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Playtomic">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#4EA7FF"/>
+      <stop offset="1" stop-color="#0B5BFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#g)"/>
+  <path d="M23 44V20h14c6.5 0 10 3.6 10 8.2 0 4.7-3.5 8.3-10 8.3h-8.2V44h-5.8Zm14-13c3 0 4.6-1.6 4.6-3.8S40 23.6 37 23.6h-8.2V31h8.2Z" fill="white"/>
+</svg>

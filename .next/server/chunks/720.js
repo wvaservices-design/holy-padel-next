@@ -1,0 +1,1 @@
+"use strict";exports.id=720,exports.ids=[720],exports.modules={1720:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});let r=(0,t(8570).createProxy)(String.raw`/Users/wva/Downloads/holy-padel-next-starter/components/NavTabs.js#default`)}};
